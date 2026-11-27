@@ -1,2 +1,11 @@
 __pycache__/
 *.pyc
+
+# MLflow
+mlruns/
+mlartifacts/
+mlflow.db
+
+# виртуальное окружение
+venv/
+.venv/
